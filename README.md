@@ -71,6 +71,7 @@
 | [**MAO-LCR**](https://github.com/ElenaHUI/MADDPG_LECAR.git) | 基于多智能体学习的任务卸载与缓存替换优化算法 | `Python` `MADDPG` `MEC` |
 | [**AlexViT**](https://github.com/ElenaHUI/DR-classification.git) | 基于ViT和AlexNeT的糖尿病视网膜病变分类系统 | `C++` `Vivado HLS` `FPGA` |
 | [**XDU-SE**](https://github.com/ElenaHUI/XDU-SE) | 西电大三的笔记和实验 | `Python` `RL` `Simulation` |
+| [**ECNU-SE**](https://github.com/ElenaHUI/ECNU-SE-hw-test) | 华东师范大学软院研究生部分资料 | |
 
 </div>
 
